@@ -33,3 +33,16 @@ ul,li{
     background-color: dodgerblue;
 
 }
+
+.cards{
+    width:100%;
+    height:300px;
+    /* background:black; */
+    position:relative;
+    top:300px;
+}
+.cards img{
+    margin:10px;
+    position:relative;
+    left:400px;
+}
